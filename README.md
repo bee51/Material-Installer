@@ -1,2 +1,2 @@
 # Material-Installer
-Changes shaders of models.
+Change shaders of models.
